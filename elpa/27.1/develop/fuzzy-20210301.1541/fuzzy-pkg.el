@@ -1,0 +1,2 @@
+;;; Generated package description from /Users/zhengwengang/.emacs.d/elpa/27.1/develop/fuzzy-20210301.1541/fuzzy.el  -*- no-byte-compile: t -*-
+(define-package "fuzzy" "20210301.1541" "Fuzzy Matching" 'nil :commit "122939ee0a82efa1bcf405de3134debe34e4a0b6" :authors '(("Tomohiro Matsuyama" . "m2ym.pub@gmail.com")) :maintainer '("Tomohiro Matsuyama" . "m2ym.pub@gmail.com") :keywords '("convenience"))
